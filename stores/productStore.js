@@ -1,5 +1,5 @@
-import { makeAutoObservable, observable } from 'mobx';
-import products from '../products';
+import { makeAutoObservable, observable } from "mobx";
+import products from "../products";
 
 class ProductsStore {
   constructor() {
